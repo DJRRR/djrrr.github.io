@@ -17,7 +17,14 @@ I'm currently looking for self-driven students who have interests in Software/Sy
 
 Background
 ======
+* 2023.7 ~ now, Fudan University, School of Computer Science, Assistant Professor.
+* * 2018.9 ~ 2023.6, Fudan University, School of Computer Science, Ph.D.
 * 2014.9 ~ 2018.6, Fudan University, School of Computer Science, B.Eng.
-* 2018.9 ~ 2023.6, Fudan University, School of Computer Science, Ph.D.
-* 2023.7 ~ now, Fudan University, School of Computer Science, Assistant Professor
+
+Publications
+======
+* **SCTrans: Constructing a Large Public Scenario Dataset for Simulation Testing of Autonomous Driving Systems**
+**Jiarun Dai**, Bufan Gao, Mingyuan Luo, Zongan Huang, Zhongrui Li, Yuan Zhang, Min Yang
+2024 IEEE/ACM 46th International Conference on Software Engineering (ICSE)
+
 
