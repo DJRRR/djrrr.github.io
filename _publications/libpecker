@@ -1,0 +1,9 @@
+---
+title: "Detecting Third-party Libraries in Android Applications with High Precision and Recall"
+collection: publications
+permalink: /publication/libpecker
+date: 2018-3-20
+venue: '2018 IEEE 25th International Conference on Software Analysis, Evolution and Reengineering (SANER)'
+---
+
+Third-party libraries are widely used in Android applications to ease development and enhance functionalities. However, the incorporated libraries also bring new security & privacy issues to the host application, and blur the accounting between application code and library code. Under this situation, a precise and reliable library detector is highly desirable. In fact, library code may be customized by developers during integration and dead library code may be eliminated by code obfuscators during application build process. However, existing research on library detection has not gracefully handled these problems, thus facing severe limitations in practice. In this paper, we propose LibPecker, an obfuscation-resilient, highly precise and reliable library detector for Android applications. LibPecker adopts signature matching to give a similarity score between a given library and an application. By fully utilizing the internal class dependencies inside a library, LibPecker generates a strict signature for each class. To tolerate library code customization and elimination as much as possible, LibPecker introduces adaptive class similarity threshold and weighted class similarity score when calculating library similarity. To quantitatively evaluate the precision and the recall of LibPecker, we perform the first such experiment (to the best of our knowledge) with a large number of libraries and applications. Results show that LibPecker significantly outperforms the state-of-the-art tools in both recall and precision (91% and 98.1% respectively).
