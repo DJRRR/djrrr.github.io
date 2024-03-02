@@ -18,42 +18,42 @@ I'm currently looking for self-driven students who have interests in Software/Sy
 Background
 ======
 * 2023.7 ~ now, Fudan University, School of Computer Science, Assistant Professor.
-* * 2018.9 ~ 2023.6, Fudan University, School of Computer Science, Ph.D.
+* 2018.9 ~ 2023.6, Fudan University, School of Computer Science, Ph.D.
 * 2014.9 ~ 2018.6, Fudan University, School of Computer Science, B.Eng.
 
 Publications
 ======
-* **SCTrans: Constructing a Large Public Scenario Dataset for Simulation Testing of Autonomous Driving Systems**
+### SCTrans: Constructing a Large Public Scenario Dataset for Simulation Testing of Autonomous Driving Systems
 
 **Jiarun Dai**, Bufan Gao, Mingyuan Luo, Zongan Huang, Zhongrui Li, Yuan Zhang, Min Yang
 
 2024 IEEE/ACM International Conference on Software Engineering (ICSE 24)
 
-* **Exorcising''Wraith'': Protecting LiDAR-based Object Detector in Automated Driving System from Appearing Attacks**
+### Exorcising''Wraith'': Protecting LiDAR-based Object Detector in Automated Driving System from Appearing Attacks
 
 Qifan Xiao, Xudong Pan, Yifan Lu, Mi Zhang, **Jiarun Dai**, Min Yang
 
 2023 USENIX Security Symposium (USENIX Security 23)
 
-* **面向无人驾驶系统的仿真模糊测试:现状、挑战与展望**
+### 面向无人驾驶系统的仿真模糊测试:现状、挑战与展望
 
 **戴嘉润**，李忠睿，张琬琪，张源，杨珉
 
 《计算机研究与发展》2023年第7期 前沿亮点论文
 
-* **Facilitating Vulnerability Assessment through Poc Migration**
+### Facilitating Vulnerability Assessment through Poc Migration
 
 **Jiarun Dai**, Yuan Zhang, Hailong Xu, Haiming Lyu, Zicheng Wu, Xinyu Xing, Min Yang
 
 2021 ACM SIGSAC Conference on Computer and Communications Security (CCS 21)
 
-* **BScout: Direct Whole Patch Presence Test for Java Executables**
+### BScout: Direct Whole Patch Presence Test for Java Executables
 
 **Jiarun Dai**, Yuan Zhang, Zheyue Jiang, Yingtian Zhou, Junyan Chen, Xinyu Xing, Xiaohan Zhang, Xin Tan, Min Yang, Zhemin Yang
 
 2020 USENIX Security Symposium (USENIX Security 20)
 
-* **Detecting Third-party Libraries in Android Applications with High Precision and Recall**
+### Detecting Third-party Libraries in Android Applications with High Precision and Recall
 
 Yuan Zhang, **Jiarun Dai**, Xiaohan Zhang, Sirong Huang, Zhemin Yang, Min Yang, Hao Chen
 
