@@ -23,37 +23,37 @@ Background
 
 Publications
 ======
-### <font color="red">SCTrans: Constructing a Large Public Scenario Dataset for Simulation Testing of Autonomous Driving Systems</font>
+### <font color="#8f1a33">SCTrans: Constructing a Large Public Scenario Dataset for Simulation Testing of Autonomous Driving Systems</font>
 
 **Jiarun Dai**, Bufan Gao, Mingyuan Luo, Zongan Huang, Zhongrui Li, Yuan Zhang, Min Yang
 
 2024 IEEE/ACM International Conference on Software Engineering (ICSE 24)
 
-### <font color="red">Exorcising''Wraith'': Protecting LiDAR-based Object Detector in Automated Driving System from Appearing Attacks</font>
+### <font color="#8f1a33">Exorcising''Wraith'': Protecting LiDAR-based Object Detector in Automated Driving System from Appearing Attacks</font>
 
 Qifan Xiao, Xudong Pan, Yifan Lu, Mi Zhang, **Jiarun Dai**, Min Yang
 
 2023 USENIX Security Symposium (USENIX Security 23)
 
-### <font color="red">面向无人驾驶系统的仿真模糊测试:现状、挑战与展望</font>
+### <font color="#8f1a33">面向无人驾驶系统的仿真模糊测试:现状、挑战与展望</font>
 
 **戴嘉润**，李忠睿，张琬琪，张源，杨珉
 
 《计算机研究与发展》2023年第7期 前沿亮点论文
 
-### <font color="red">Facilitating Vulnerability Assessment through Poc Migration</font>
+### <font color="#8f1a33">Facilitating Vulnerability Assessment through Poc Migration</font>
 
 **Jiarun Dai**, Yuan Zhang, Hailong Xu, Haiming Lyu, Zicheng Wu, Xinyu Xing, Min Yang
 
 2021 ACM SIGSAC Conference on Computer and Communications Security (CCS 21)
 
-### <font color="red">BScout: Direct Whole Patch Presence Test for Java Executables</font>
+### <font color="#8f1a33">BScout: Direct Whole Patch Presence Test for Java Executables</font>
 
 **Jiarun Dai**, Yuan Zhang, Zheyue Jiang, Yingtian Zhou, Junyan Chen, Xinyu Xing, Xiaohan Zhang, Xin Tan, Min Yang, Zhemin Yang
 
 2020 USENIX Security Symposium (USENIX Security 20)
 
-### <font color="red">Detecting Third-party Libraries in Android Applications with High Precision and Recall</font>
+### <font color="#8f1a33">Detecting Third-party Libraries in Android Applications with High Precision and Recall</font>
 
 Yuan Zhang, **Jiarun Dai**, Xiaohan Zhang, Sirong Huang, Zhemin Yang, Min Yang, Hao Chen
 
