@@ -1,22 +1,87 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "APSFUZZ: Simulation-Based Fuzzing Testing for Automated Parking Systems"
+    authors: Tong Bu*, <u><strong>Jiarun Dai*</strong></u>, Jiaqi Luo, Songyang Peng, Zongan Huang, Min Yang (*Co-first Authors)
+    conference_short: VehicleSec
+    conference: The 3rd USENIX Symposium on Vehicle Security and Privacy <strong>(VehicleSec)</strong>, 2025.
+    notes: To appear
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Effective Directed Fuzzing with Hierarchical Scheduling for Web Vulnerability Detection"
+    authors: Zihan Lin, Yuan Zhang, <u><strong>Jiarun Dai</strong></u>, Xinyou Huang, Bocheng Xiang, Guangliang Yang, Letian Yuan, Lei Zhang, Fengyu Liu, Tian Chen, Min Yang
+    conference_short: USENIX Security
+    conference: The 34th USENIX Security Symposium <strong>(USENIX Security)</strong>, 2025.
+    pdf: https://www.usenix.org/conference/usenixsecurity25/presentation/lin-zihan
+    notes: CCF-A, Security BIG4 Conference
+
+  - title: "HouseFuzz: Service-Aware Grey-Box Fuzzing for Vulnerability Detection in Linux-Based Firmware"
+    authors: Haoyu Xiao, Ziqi Wei, <u><strong>Jiarun Dai</strong></u>, Bowen Li, Yuan Zhang, Min Yang
+    conference_short: S&P
+    conference: The 46th IEEE Symposium on Security and Privacy <strong>(S&P)</strong>, 2025
+    pdf: https://www.computer.org/csdl/proceedings-article/sp/2025/223600d507/26hiVy3bGHm
+    code: https://github.com/HouseFuzz/HouseFuzz
+    notes: CCF-A, Security BIG4 Conference
+
+  - title: "Applying Fuzz Driver Generation to Native C/C++ Libraries of OEM Android Framework: Obstacles and Solutions"
+    authors: Shiyan Peng, Yuan Zhang, <u><strong>Jiarun Dai</strong></u>, Yue Gu, Zhuoxiang Shen, Jingcheng Liu, Lin Wang, Yong Chen, Yu Qin, Lei Ai, Xianfeng Lu, Min Yang
+    conference: ASE
+    conference: The 39th IEEE/ACM International Conference on Automated Software Engineering (Industry Track) <strong>(ASE-Industry)</strong>, 2025
+    pdf: https://dl.acm.org/doi/10.1145/3691620.3695266
+    notes: CCF-A, Top Software Engineering Conference
+
+  - title: "VioHawk: Detecting Traffic Violations of Autonomous Driving Systems through Criticality-guided Simulation Testing"
+    authors: Zhongrui Li*, <u><strong>Jiarun Dai*</strong></u>, Zongan Huang, Nianhao You, Yuan Zhang, Min Yang (*Co-first Authors)
+    conference_short: ISSTA
+    conference: The 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis <strong>(ISSTA)</strong>, 2024
+    pdf: https://dl.acm.org/doi/10.1145/3650212.3680325
+    code: https://github.com/emocat/VioHawk
+    notes: CCF-A, Top Software Engineering Conference
+
+  - title: "SCTrans: Constructing a Large Public Scenario Dataset for Simulation Testing of Autonomous Driving Systems"
+    authors: <u><strong>Jiarun Dai</strong></u>, Bufan Gao, Mingyuan Luo, Zongan Huang, Zhongrui Li, Yuan Zhang, Min Yang
+    conference_short: ICSE
+    conference: The 46th International Conference on Software Engineering <strong>(ICSE)</strong>, 2024
+    pdf: https://dl.acm.org/doi/10.1145/3597503.3623350
+    code: https://github.com/seclab-fudan/SCTrans
+    page: https://seclab-fudan.github.io/SCTrans/
+    notes: CCF-A, Top Software Engineering Conference
+
+  - title: "Exorcising''Wraith'': Protecting LiDAR-based Object Detector in Automated Driving System from Appearing Attacks"
+    authors: Qifan Xiao, Xudong Pan, Yifan Lu, Mi Zhang, <u><strong>Jiarun Dai</strong></u>, Min Yang
+    conference_short: USENIX Security
+    conference: The 32nd USENIX Security Symposium <strong>(USENIX Security)</strong>, 2023
+    pdf: https://www.usenix.org/conference/usenixsecurity23/presentation/xiao-qifan
+    notes: CCF-A, Security BIG4 Conference
+
+  - title: "Simulation-Based Fuzzing for Autonomous Driving Systems: Landscapes, Challenges and Prospects"
+    authors: <u><strong>Jiarun Dai</strong></u>, Zhongrui Li, Wanqi Zhang, Yuan Zhang, Min Yang
+    conference: Journal of Computer Research and Development, 2023, 60(7)
+    pdf: https://crad.ict.ac.cn/article/doi/10.7544/issn1000-1239.202330156
+    notes: CCF-A, Spotlight Paper
+
+  - title: "Facilitating Vulnerability Assessment through Poc Migration"
+    authors: <u><strong>Jiarun Dai</strong></u>, Yuan Zhang, Hailong Xu, Haiming Lyu, Zicheng Wu, Xinyu Xing, Min Yang
+    conference_short: CCS
+    conference: The 28th ACM Conference on Computer and Communications Security <strong>(CCS)</strong>, 2021
+    pdf: https://dl.acm.org/doi/10.1145/3460120.3484594
+    code: https://seclab-fudan.github.io/VulScope/
+    notes: CCF-A, Security BIG4 Conference
+
+  - title: "BScout: Direct Whole Patch Presence Test for Java Executables"
+    authors: <u><strong>Jiarun Dai</strong></u>, Yuan Zhang, Zheyue Jiang, Yingtian Zhou, Junyan Chen, Xinyu Xing, Xiaohan Zhang, Xin Tan, Min Yang, Zhemin Yang
+    conference_short: USENIX Security
+    conference: The 29th USENIX Security Symposium <strong>(USENIX Security)</strong>, 2020
+    pdf: https://www.usenix.org/conference/usenixsecurity20/presentation/dai
+    notes: CCF-A, Security BIG4 Conference
+
+  - title: "Detecting Third-party Libraries in Android Applications with High Precision and Recall"
+    authors: Yuan Zhang, <u><strong>Jiarun Dai</strong></u>, Xiaohan Zhang, Sirong Huang, Zhemin Yang, Min Yang, Hao Chen
+    conference_short: SANER
+    conference: The 25th International Conference on Software Analysis, Evolution and Reengineering <strong>(SANER)</strong>, 2018
+    pdf: https://ieeexplore.ieee.org/document/8330204/
+    code: https://github.com/yuanxzhang/LibPecker
+    notes: CCF-B, Software Engineering Conference
+
+
+
+
+

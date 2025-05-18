@@ -1,17 +1,19 @@
 main:
 
-  Conference Reviewers:
+  Conference/Workshop TPC:
     
-      - title: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2021-2023
-        link: http://cvpr2023.thecvf.com/
-      - title: IEEE/CVF International Conference on Computer Vision (ICCV) 2021
-        link: http://iccv2021.thecvf.com/
-      - title: European Conference on Computer Vision (ECCV) 2022
-        link: https://eccv2022.ecva.net/
+      - title: USENIX Symposium on Vehicle Security and Privacy 2024 2025
+        link: https://www.usenix.org/conference/vehiclesec25
+      - title: International Workshop on Software Engineering for Autonomous Driving Systems (SE4ADS) 2025
+        link: https://conf.researchr.org/home/icse-2025/se4ads-2025
+      - title: Network and Distributed System Security (NDSS) Symposium (Artifact Evaluation) 2024
+        link: https://www.ndss-symposium.org/ndss2024/submissions/artifacts/
 
   Journal Reviewers:
 
-      - title: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
-        link: https://www.computer.org/csdl/journal/tp
-      - title: International Journal of Computer Vision (IJCV)
-        link: https://www.springer.com/journal/11263
+      - title: ACM Transactions on Privacy and Security (TOPS)
+        link: https://dl.acm.org/journal/tops
+      - title: IEEE Transactions on Dependable and Secure Computing (TDSC)
+        link: https://www.computer.org/csdl/journal/tq
+      - title: ACM Transactions on Software Engineering and Methodology (TOSEM)
+        link: https://mc.manuscriptcentral.com/tosem

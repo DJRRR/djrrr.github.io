@@ -4,16 +4,27 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am an Assistant Professor at the [School of Computer Science](http://www.cs.fudan.edu.cn) in Fudan University, where I earned my Ph.D. degree under the guidance of [Prof. Min Yang](https://scholar.google.com/citations?hl=en&user=UnKf9FIAAAAJ) and [Prof. Yuan Zhang](https://yuanxzhang.github.io/). I currently work at the [System Software and Security Lab](https://secsys.fudan.edu.cn). 
+I am also the co-founder of Fudan-Whitzard CTF team. My research interests mainly include Vulnerability Detection, Analysis and Exploitation on Critical Targets (e.g., autonomous driving system, open-source software, LLM-based app, firmware, etc.).
 
-## Research Interests
+I'm currently looking for self-driven students who have interests in Software/System Security, especially those who have experiences with Program Analysis, Fuzzing-based Testing, CTF challenges, Real-world Vulnerability Exploitation, etc. Please feel free to contact me through:
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+* Email: jrdai [AT] fudan.edu.cn
+* Office: Room D6027, NO.2 Interdisciplinary Building, NO.2005 Songhu Road, Yangpu District, Shanghai
+
+## Background
+
+- **[2023.7 ~ now]** Fudan University, School of Computer Science, Assistant Professor.
+- **[2018.9 ~ 2023.6]** Fudan University, School of Computer Science, Ph.D.
+- **[2014.9 ~ 2018.6]** Fudan University, School of Computer Science, B.Eng.
+
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Apr. 2025]** Our work on APS(Automated Parking System) fuzzing has been accepted by VehicleSec 2025 (Co-located with USENIX Security 2025)!
+- **[Mar. 2025]** Our work on firmware fuzzing has been accepted by IEEE S&P 2025!
+- **[Jan. 2025]** Our work on web application fuzzing has been accepted by USENIX Security 2025!
+- **[Nov. 2024]** I will serve as a TPC member for USENIX VehicleSec 2025!
+- **[Aug. 2024]** Our work on OEM android framework fuzzing has been accepted by ASE 2024 (Industry Track)!
+
+
