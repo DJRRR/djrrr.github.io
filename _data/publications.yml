@@ -1,4 +1,16 @@
 main:
+  
+  - title: "Make Agent Defeat Agent: Automatic Detection of Taint-Style Vulnerabilities in LLM-based Agents"
+    authors: Fengyu Liu, Yuan Zhang, Jiaqi Luo, <u><strong>Jiarun Dai</strong></u>, Tian Chen, Letian Yuan, Zhengmin Yu, Youkun Shi, Ke Li, Chengyuan Zhou, Hao Chen, Min Yang
+    conference_short: USENIX Security
+    conference: The 34th USENIX Security Symposium <strong>(USENIX Security)</strong>, 2025
+    notes: CCF-A, Security BIG4 Conference, To appear
+
+  - title: "XSSky: Detecting XSS Vulnerabilities through Local Path-Persistent Fuzzing"
+    authors: Youkun Shi, Yuan Zhang, Tianhao Bai, Feng Xue, <u><strong>Jiarun Dai</strong></u>, Fengyu Liu, Lei Zhang, Xiapu Luo, Min Yang
+    conference_short: USENIX Security
+    conference: The 34th USENIX Security Symposium <strong>(USENIX Security)</strong>, 2025
+    notes: CCF-A, Security BIG4 Conference, To appear
 
   - title: "APSFUZZ: Simulation-Based Fuzzing Testing for Automated Parking Systems"
     authors: Tong Bu*, <u><strong>Jiarun Dai*</strong></u>, Jiaqi Luo, Songyang Peng, Zongan Huang, Min Yang (*Co-first Authors)

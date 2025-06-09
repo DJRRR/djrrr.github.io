@@ -21,6 +21,8 @@ I'm currently looking for self-driven students who have interests in Software/Sy
 
 ## News
 
+- **[Jun. 2025]** Our work on LLM agent fuzzing has been accepted by USENIX Security 2025!
+- **[Jun. 2025]** Our work on XSS vulnerability detection has been accepted by USENIX Security 2025!
 - **[Apr. 2025]** Our work on APS(Automated Parking System) fuzzing has been accepted by VehicleSec 2025 (Co-located with USENIX Security 2025)!
 - **[Mar. 2025]** Our work on firmware fuzzing has been accepted by IEEE S&P 2025!
 - **[Jan. 2025]** Our work on web application fuzzing has been accepted by USENIX Security 2025!
