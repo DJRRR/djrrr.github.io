@@ -1,4 +1,10 @@
 main:
+
+  - title: "FirmCross: Detecting Taint-style Vulnerabilities in Modern C-Lua Hybrid Web Services of Linux-based Firmware"
+    authors: Runhao Liu, Jiarun Dai, Haoyu Xiao, Yuan Zhang, Yeqi Mou, Lukai Xu, Bo Yu, Baosheng Wang, Min Yang
+    conference_short: NDSS
+    conference: The Network and Distributed System Security (NDSS) Symposium, 2026
+    notes: CCF-A, Security BIG4 Conference, To appear, over 600 0-day vulns!
   
   - title: "Make Agent Defeat Agent: Automatic Detection of Taint-Style Vulnerabilities in LLM-based Agents"
     authors: Fengyu Liu, Yuan Zhang, Jiaqi Luo, <u><strong>Jiarun Dai</strong></u>, Tian Chen, Letian Yuan, Zhengmin Yu, Youkun Shi, Ke Li, Chengyuan Zhou, Hao Chen, Min Yang
