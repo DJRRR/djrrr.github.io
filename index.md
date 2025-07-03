@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 I am an Assistant Professor at the [School of Computer Science](http://www.cs.fudan.edu.cn) in Fudan University, where I earned my Ph.D. degree under the guidance of [Prof. Min Yang](https://scholar.google.com/citations?hl=en&user=UnKf9FIAAAAJ) and [Prof. Yuan Zhang](https://yuanxzhang.github.io/). I currently work at the [System Software and Security Lab](https://secsys.fudan.edu.cn). 
-I am also the co-founder of Fudan-Whitzard CTF team. My research interests mainly include Vulnerability Detection, Analysis and Exploitation on Critical Targets (e.g., autonomous driving system, open-source software, LLM-based app, firmware, etc.).
+I am also the co-founder of Fudan-Whitzard CTF team. My research interests mainly include Vulnerability Detection, Analysis and Exploitation on Critical Targets (e.g., web app, LLM-based app, firmware, hypervisor, etc.).
 
 I'm currently looking for self-driven students who have interests in Software/System Security, especially those who have experiences with Program Analysis, Fuzzing-based Testing, CTF challenges, Real-world Vulnerability Exploitation, etc. Please feel free to contact me through:
 
