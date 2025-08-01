@@ -1,5 +1,11 @@
 main:
 
+  - title: "Better Safe than Sorry: Uncovering the Insecure Resource Management in App-in-App Cloud Services"
+    authors: Yizhe Shi, Zhemin Yang, Dingyi Liu, Kangwei Zhong, Jiarun Dai, Min Yang
+    conference_short: NDSS
+    conference: The Network and Distributed System Security (NDSS) Symposium, 2026
+    notes: CCF-A, Security BIG4 Conference, To appear
+
   - title: "FirmCross: Detecting Taint-style Vulnerabilities in Modern C-Lua Hybrid Web Services of Linux-based Firmware"
     authors: Runhao Liu, Jiarun Dai, Haoyu Xiao, Yuan Zhang, Yeqi Mou, Lukai Xu, Bo Yu, Baosheng Wang, Min Yang
     conference_short: NDSS

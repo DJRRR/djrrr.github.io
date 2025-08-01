@@ -21,6 +21,7 @@ I'm currently looking for self-driven students who have interests in Software/Sy
 
 ## News
 
+- **[Aug. 2025]** Our work on app-in-app ecosystem security has been accepted by NDSS 2026!
 - **[Jul. 2025]** Our work on firmware vulnerability detection has been accepted by NDSS 2026!
 - **[Jun. 2025]** Our work on LLM agent fuzzing has been accepted by USENIX Security 2025!
 - **[Jun. 2025]** Our work on XSS vulnerability detection has been accepted by USENIX Security 2025!
