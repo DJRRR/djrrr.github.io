@@ -1,5 +1,11 @@
 main:
 
+  - title: "Security Debt in LLM Agent Applications: A Measurement Study of Vulnerabilities and Mitigation Trade-offs"
+    authors: Zhuoxiang Shen, Jiarun Dai, Yuan Zhang, Min Yang
+    conference_short: ASE
+    conference: The IEEE/ACM Automated Software Engineering Conference <strong>(ASE)</strong>, 2025
+    notes: CCF-A, To appear
+
   - title: "ApkDiffer: Accurate and Scalable Cross-Version Diffing Analysis for Android Applications"
     authors: <u><strong>Jiarun Dai</strong></u>, Mingyuan Luo, Yuan Zhang, Min Yang, Minghui Yang
     conference_short: OOPSLA
