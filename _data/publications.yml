@@ -1,13 +1,19 @@
 main:
 
+  - title: "ApkDiffer: Accurate and Scalable Cross-Version Diffing Analysis for Android Applications"
+    authors: <u><strong>Jiarun Dai</strong></u>, Mingyuan Luo, Yuan Zhang, Min Yang, Minghui Yang
+    conference_short: OOPSLA
+    conference: The International Conference on Object-Oriented Programming Systems, Languages, and Application, 2025
+    notes: CCF-A, To appear
+
   - title: "Better Safe than Sorry: Uncovering the Insecure Resource Management in App-in-App Cloud Services"
-    authors: Yizhe Shi, Zhemin Yang, Dingyi Liu, Kangwei Zhong, Jiarun Dai, Min Yang
+    authors: Yizhe Shi, Zhemin Yang, Dingyi Liu, Kangwei Zhong, <u><strong>Jiarun Dai</strong></u>, Min Yang
     conference_short: NDSS
     conference: The Network and Distributed System Security (NDSS) Symposium, 2026
     notes: CCF-A, Security BIG4 Conference, To appear
 
   - title: "FirmCross: Detecting Taint-style Vulnerabilities in Modern C-Lua Hybrid Web Services of Linux-based Firmware"
-    authors: Runhao Liu, Jiarun Dai, Haoyu Xiao, Yuan Zhang, Yeqi Mou, Lukai Xu, Bo Yu, Baosheng Wang, Min Yang
+    authors: Runhao Liu, <u><strong>Jiarun Dai*</strong></u>, Haoyu Xiao, Yuan Zhang, Yeqi Mou, Lukai Xu, Bo Yu, Baosheng Wang*, Min Yang* (Co-corresponding Authors)
     conference_short: NDSS
     conference: The Network and Distributed System Security (NDSS) Symposium, 2026
     notes: CCF-A, Security BIG4 Conference, To appear, over 600 0-day vulns!
