@@ -1,16 +1,18 @@
 main:
 
   - title: "Security Debt in LLM Agent Applications: A Measurement Study of Vulnerabilities and Mitigation Trade-offs"
-    authors: Zhuoxiang Shen, Jiarun Dai, Yuan Zhang, Min Yang
+    authors: Zhuoxiang Shen, <u><strong>Jiarun Dai*</strong></u>, Yuan Zhang, Min Yang* (Co-corresponding Authors)
     conference_short: ASE
     conference: The IEEE/ACM Automated Software Engineering Conference <strong>(ASE)</strong>, 2025
-    notes: CCF-A, To appear
+    notes: CCF-A
+    pdf: https://conf.researchr.org/details/ase-2025/ase-2025-papers/19/Security-Debt-in-LLM-Agent-Applications-A-Measurement-Study-of-Vulnerabilities-and-M
 
   - title: "ApkDiffer: Accurate and Scalable Cross-Version Diffing Analysis for Android Applications"
     authors: <u><strong>Jiarun Dai</strong></u>, Mingyuan Luo, Yuan Zhang, Min Yang, Minghui Yang
     conference_short: OOPSLA
     conference: The International Conference on Object-Oriented Programming Systems, Languages, and Application <strong>(OOPSLA)</strong>, 2025
-    notes: CCF-A, To appear
+    notes: CCF-A
+    pdf: https://dl.acm.org/doi/10.1145/3763141
 
   - title: "Better Safe than Sorry: Uncovering the Insecure Resource Management in App-in-App Cloud Services"
     authors: Yizhe Shi, Zhemin Yang, Dingyi Liu, Kangwei Zhong, <u><strong>Jiarun Dai</strong></u>, Min Yang
@@ -28,19 +30,21 @@ main:
     authors: Fengyu Liu, Yuan Zhang, Jiaqi Luo, <u><strong>Jiarun Dai</strong></u>, Tian Chen, Letian Yuan, Zhengmin Yu, Youkun Shi, Ke Li, Chengyuan Zhou, Hao Chen, Min Yang
     conference_short: USENIX Security
     conference: The 34th USENIX Security Symposium <strong>(USENIX Security)</strong>, 2025
-    notes: CCF-A, Security BIG4 Conference, To appear
+    notes: CCF-A, Security BIG4 Conference
+    pdf: https://www.usenix.org/conference/usenixsecurity25/presentation/liu-fengyu
 
   - title: "XSSky: Detecting XSS Vulnerabilities through Local Path-Persistent Fuzzing"
     authors: Youkun Shi, Yuan Zhang, Tianhao Bai, Feng Xue, <u><strong>Jiarun Dai</strong></u>, Fengyu Liu, Lei Zhang, Xiapu Luo, Min Yang
     conference_short: USENIX Security
     conference: The 34th USENIX Security Symposium <strong>(USENIX Security)</strong>, 2025
-    notes: CCF-A, Security BIG4 Conference, To appear
+    notes: CCF-A, Security BIG4 Conference
+    pdf: https://www.usenix.org/conference/usenixsecurity25/presentation/shi-youkun
 
   - title: "APSFUZZ: Simulation-Based Fuzzing Testing for Automated Parking Systems"
     authors: Tong Bu*, <u><strong>Jiarun Dai*</strong></u>, Jiaqi Luo, Songyang Peng, Zongan Huang, Min Yang (*Co-first Authors)
     conference_short: VehicleSec
     conference: The 3rd USENIX Symposium on Vehicle Security and Privacy <strong>(VehicleSec)</strong>, 2025.
-    notes: To appear
+    pdf: https://www.usenix.org/conference/vehiclesec25/presentation/bu
 
   - title: "Effective Directed Fuzzing with Hierarchical Scheduling for Web Vulnerability Detection"
     authors: Zihan Lin, Yuan Zhang, <u><strong>Jiarun Dai</strong></u>, Xinyou Huang, Bocheng Xiang, Guangliang Yang, Letian Yuan, Lei Zhang, Fengyu Liu, Tian Chen, Min Yang
