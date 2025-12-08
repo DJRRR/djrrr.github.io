@@ -1,11 +1,18 @@
 main:
 
+  - title: "ADSDx: Towards Automated Accident Diagnosis for High-level Autonomous Driving Systems"
+    authors: Zongan Huang*, <u><strong>Jiarun Dai*</strong></u>, Mingyuan Luo, Yuqi Chen, Huijia Sun, Yuan Zhang, Min Yang (Co-first Authors)
+    conference_short: TOSEM
+    conference: ACM Transactions on Software Engineering and Methodology <strong>(TOSEM)</strong>, 2025
+    notes: CCF-A, Software Engineering Journal, To appear
+
   - title: "Security Debt in LLM Agent Applications: A Measurement Study of Vulnerabilities and Mitigation Trade-offs"
     authors: Zhuoxiang Shen, <u><strong>Jiarun Dai*</strong></u>, Yuan Zhang, Min Yang* (Co-corresponding Authors)
     conference_short: ASE
     conference: The IEEE/ACM Automated Software Engineering Conference <strong>(ASE)</strong>, 2025
-    notes: CCF-A
+    notes: CCF-A. Software Engineering Conference
     pdf: https://conf.researchr.org/details/ase-2025/ase-2025-papers/19/Security-Debt-in-LLM-Agent-Applications-A-Measurement-Study-of-Vulnerabilities-and-M
+    code: https://github.com/SZXSec/Agent-Vulnerability-Dataset
 
   - title: "ApkDiffer: Accurate and Scalable Cross-Version Diffing Analysis for Android Applications"
     authors: <u><strong>Jiarun Dai</strong></u>, Mingyuan Luo, Yuan Zhang, Min Yang, Minghui Yang
@@ -32,6 +39,7 @@ main:
     conference: The 34th USENIX Security Symposium <strong>(USENIX Security)</strong>, 2025
     notes: CCF-A, Security BIG4 Conference
     pdf: https://www.usenix.org/conference/usenixsecurity25/presentation/liu-fengyu
+    code: https://github.com/LFYSec/AgentFuzz
 
   - title: "XSSky: Detecting XSS Vulnerabilities through Local Path-Persistent Fuzzing"
     authors: Youkun Shi, Yuan Zhang, Tianhao Bai, Feng Xue, <u><strong>Jiarun Dai</strong></u>, Fengyu Liu, Lei Zhang, Xiapu Luo, Min Yang

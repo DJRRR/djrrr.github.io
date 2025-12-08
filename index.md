@@ -21,6 +21,7 @@ I'm currently looking for self-driven students who have interests in Software/Sy
 
 ## News
 
+- **[Dec. 2025]** Our work on ADS accident diagnosis has been accepted by TOSEM 2025!
 - **[Aug. 2025]** Our work on llm agent vulnerability measurement has been accepted by ASE 2025!
 - **[Aug. 2025]** Our work on app code diffing has been accepted by OOPSLA 2025!
 - **[Aug. 2025]** Our work on app-in-app ecosystem security has been accepted by NDSS 2026!
