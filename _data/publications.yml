@@ -4,7 +4,9 @@ main:
     authors: Zongan Huang*, <u><strong>Jiarun Dai*</strong></u>, Mingyuan Luo, Yuqi Chen, Huijia Sun, Yuan Zhang, Min Yang (Co-first Authors)
     conference_short: TOSEM
     conference: ACM Transactions on Software Engineering and Methodology <strong>(TOSEM)</strong>, 2025
-    notes: CCF-A, Software Engineering Journal, To appear
+    notes: CCF-A, Software Engineering Journal
+    pdf: https://dl.acm.org/doi/abs/10.1145/3783993
+    code: https://zenodo.org/records/17847407
 
   - title: "Security Debt in LLM Agent Applications: A Measurement Study of Vulnerabilities and Mitigation Trade-offs"
     authors: Zhuoxiang Shen, <u><strong>Jiarun Dai*</strong></u>, Yuan Zhang, Min Yang* (Co-corresponding Authors)
