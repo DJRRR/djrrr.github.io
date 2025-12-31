@@ -1,5 +1,29 @@
 main:
 
+  - title: "Autonomy Comes with Costs: Detecting Denial-of-Service Vulnerabilities Caused by Resource Abusing in LLM-based Agents"
+    authors: Jiaqi Luo, <u><strong>Jiarun Dai*</strong></u>, Fengyu Liu, Songyang Peng, Youkun Shi, Tong Bu, Geng Hong, Xudong Pan*, Yuan Zhang
+    conference_short: USENIX Security
+    conference: The 35th USENIX Security Symposium <strong>(USENIX Security)</strong>, 2025
+    notes: CCF-A, Security BIG4 Conference, To appear
+
+  - title: "Khost: KVM-based Near Native MCU Firmware Rehosting"
+    authors: Chunlin Wang, Yicheng Yang, Yuan Zhang, Haoyu Xiao, Yifan Zhang, <u><strong>Jiarun Dai</strong></u>
+    conference_short: USENIX Security
+    conference: The 35th USENIX Security Symposium <strong>(USENIX Security)</strong>, 2025
+    notes: CCF-A, Security BIG4 Conference, To appear
+
+  - title: "Better Safe than Sorry: Uncovering the Insecure Resource Management in App-in-App Cloud Services"
+    authors: Yizhe Shi, Zhemin Yang, Dingyi Liu, Kangwei Zhong, <u><strong>Jiarun Dai</strong></u>, Min Yang
+    conference_short: NDSS
+    conference: The Network and Distributed System Security <strong>(NDSS)</strong> Symposium, 2026
+    notes: CCF-A, Security BIG4 Conference, To appear
+
+  - title: "FirmCross: Detecting Taint-style Vulnerabilities in Modern C-Lua Hybrid Web Services of Linux-based Firmware"
+    authors: Runhao Liu, <u><strong>Jiarun Dai*</strong></u>, Haoyu Xiao, Yuan Zhang, Yeqi Mou, Lukai Xu, Bo Yu, Baosheng Wang*, Min Yang* (Co-corresponding Authors)
+    conference_short: NDSS
+    conference: The Network and Distributed System Security <strong>(NDSS)</strong> Symposium, 2026
+    notes: CCF-A, Security BIG4 Conference, To appear, over 600 0-day vulns!
+
   - title: "ADSDx: Towards Automated Accident Diagnosis for High-level Autonomous Driving Systems"
     authors: Zongan Huang*, <u><strong>Jiarun Dai*</strong></u>, Mingyuan Luo, Yuqi Chen, Huijia Sun, Yuan Zhang, Min Yang (Co-first Authors)
     conference_short: TOSEM
@@ -23,18 +47,6 @@ main:
     notes: CCF-A
     pdf: https://dl.acm.org/doi/10.1145/3763141
 
-  - title: "Better Safe than Sorry: Uncovering the Insecure Resource Management in App-in-App Cloud Services"
-    authors: Yizhe Shi, Zhemin Yang, Dingyi Liu, Kangwei Zhong, <u><strong>Jiarun Dai</strong></u>, Min Yang
-    conference_short: NDSS
-    conference: The Network and Distributed System Security <strong>(NDSS)</strong> Symposium, 2026
-    notes: CCF-A, Security BIG4 Conference, To appear
-
-  - title: "FirmCross: Detecting Taint-style Vulnerabilities in Modern C-Lua Hybrid Web Services of Linux-based Firmware"
-    authors: Runhao Liu, <u><strong>Jiarun Dai*</strong></u>, Haoyu Xiao, Yuan Zhang, Yeqi Mou, Lukai Xu, Bo Yu, Baosheng Wang*, Min Yang* (Co-corresponding Authors)
-    conference_short: NDSS
-    conference: The Network and Distributed System Security <strong>(NDSS)</strong> Symposium, 2026
-    notes: CCF-A, Security BIG4 Conference, To appear, over 600 0-day vulns!
-  
   - title: "Make Agent Defeat Agent: Automatic Detection of Taint-Style Vulnerabilities in LLM-based Agents"
     authors: Fengyu Liu, Yuan Zhang, Jiaqi Luo, <u><strong>Jiarun Dai</strong></u>, Tian Chen, Letian Yuan, Zhengmin Yu, Youkun Shi, Ke Li, Chengyuan Zhou, Hao Chen, Min Yang
     conference_short: USENIX Security
