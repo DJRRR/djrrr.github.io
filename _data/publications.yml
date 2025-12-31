@@ -3,13 +3,13 @@ main:
   - title: "Autonomy Comes with Costs: Detecting Denial-of-Service Vulnerabilities Caused by Resource Abusing in LLM-based Agents"
     authors: Jiaqi Luo, <u><strong>Jiarun Dai*</strong></u>, Fengyu Liu, Songyang Peng, Youkun Shi, Tong Bu, Geng Hong, Xudong Pan*, Yuan Zhang
     conference_short: USENIX Security
-    conference: The 35th USENIX Security Symposium <strong>(USENIX Security)</strong>, 2025
+    conference: The 35th USENIX Security Symposium <strong>(USENIX Security)</strong>, 2026
     notes: CCF-A, Security BIG4 Conference, To appear
 
   - title: "Khost: KVM-based Near Native MCU Firmware Rehosting"
     authors: Chunlin Wang, Yicheng Yang, Yuan Zhang, Haoyu Xiao, Yifan Zhang, <u><strong>Jiarun Dai</strong></u>
     conference_short: USENIX Security
-    conference: The 35th USENIX Security Symposium <strong>(USENIX Security)</strong>, 2025
+    conference: The 35th USENIX Security Symposium <strong>(USENIX Security)</strong>, 2026
     notes: CCF-A, Security BIG4 Conference, To appear
 
   - title: "Better Safe than Sorry: Uncovering the Insecure Resource Management in App-in-App Cloud Services"
