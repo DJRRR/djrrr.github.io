@@ -1,7 +1,7 @@
 main:
 
   - title: "Autonomy Comes with Costs: Detecting Denial-of-Service Vulnerabilities Caused by Resource Abusing in LLM-based Agents"
-    authors: Jiaqi Luo, <u><strong>Jiarun Dai*</strong></u>, Fengyu Liu, Songyang Peng, Youkun Shi, Tong Bu, Geng Hong, Xudong Pan*, Yuan Zhang
+    authors: Jiaqi Luo, <u><strong>Jiarun Dai*</strong></u>, Fengyu Liu, Songyang Peng, Youkun Shi, Tong Bu, Geng Hong, Xudong Pan, Yuan Zhang (*Corresponding Author) 
     conference_short: USENIX Security
     conference: The 35th USENIX Security Symposium <strong>(USENIX Security)</strong>, 2026
     notes: CCF-A, Security BIG4 Conference, To appear
