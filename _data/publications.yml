@@ -1,4 +1,34 @@
 main:
+  
+  - title: "FirmCred: Detecting Authentication Bypass Vulnerabilities in Firmware from Credential Initialization Perspective"
+    authors: Ziqi Wei, Haoyu Xiao, Yuan Zhang, Chi Chen, <u><strong>Jiarun Dai</strong></u>
+    conference_short: CCS
+    conference: The 33rd ACM Conference on Computer and Communications Security <strong>(CCS)</strong>, 2026
+    notes: CCF-A, Security BIG4 Conference, To appear
+  
+  - title: "BACAgent: LLM-Powered Detection of Broken-Access-Control Vulnerabilities in Web Applications"
+    authors: Fengyu Liu, Yuan Zhang, Zheng Lou, Tian Chen, Youkun Shi, <u><strong>Jiarun Dai</strong></u>, Enhao Li, Guangyu Zhou, Zhongfu Su, Zequn Fang
+    conference_short: CCS
+    conference: The 33rd ACM Conference on Computer and Communications Security <strong>(CCS)</strong>, 2026
+    notes: CCF-A, Security BIG4 Conference, To appear
+
+  - title: "Reproducing Web Application Vulnerabilities with Patch-Guided Routing Inference and Sink Exploration"
+    authors: Youkun Shi, Yuan Zhang, Feng Xue, <u><strong>Jiarun Dai</strong></u>, Lei Zhang, Fengyu Liu, Bocheng Xiang, Xiapu Luo
+    conference_short: CCS
+    conference: The 33rd ACM Conference on Computer and Communications Security <strong>(CCS)</strong>, 2026
+    notes: CCF-A, Security BIG4 Conference, To appear
+
+  - title: "PHPBench: Automated Generation of Verifiable and Hierarchical Benchmarks for PHP Web Fuzzing"
+    authors: Youkun Shi, Yuan Zhang, Lei Zhang, <u><strong>Jiarun Dai</strong></u>, Tianhao Bai, Fengyu Liu, Bocheng Xiang, Xiapu Luo, Min Yang
+    conference_short: CCS
+    conference: The 33rd ACM Conference on Computer and Communications Security <strong>(CCS)</strong>, 2026
+    notes: CCF-A, Security BIG4 Conference, To appear
+
+  - title: "MirrorGuard: Toward Secure Computer-Use Agents via Simulation-to-Real Reasoning Correction"
+    authors: Wenqi Zhang, Yulin Shen, Changyue Jiang, <u><strong>Jiarun Dai</strong></u>, Geng Hong, Xudong Pan
+    conference_short: CCS
+    conference: The 33rd ACM Conference on Computer and Communications Security <strong>(CCS)</strong>, 2026
+    notes: CCF-A, Security BIG4 Conference, To appear
 
   - title: "Autonomy Comes with Costs: Detecting Denial-of-Service Vulnerabilities Caused by Resource Abusing in LLM-based Agents"
     authors: Jiaqi Luo, <u><strong>Jiarun Dai*</strong></u>, Fengyu Liu, Songyang Peng, Youkun Shi, Tong Bu, Geng Hong, Xudong Pan, Yuan Zhang (*Corresponding Author) 
