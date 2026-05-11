@@ -34,25 +34,34 @@ main:
     authors: Jiaqi Luo, <u><strong>Jiarun Dai*</strong></u>, Fengyu Liu, Songyang Peng, Youkun Shi, Tong Bu, Geng Hong, Xudong Pan, Yuan Zhang (*Corresponding Author) 
     conference_short: USENIX Security
     conference: The 35th USENIX Security Symposium <strong>(USENIX Security)</strong>, 2026
-    notes: CCF-A, Security BIG4 Conference, To appear
+    notes: CCF-A, Security BIG4 Conference
+    pdf: https://www.usenix.org/system/files/conference/usenixsecurity26/sec26_prepub_luo.pdf
+    code: https://zenodo.org/records/18091114
 
   - title: "Khost: KVM-based Near Native MCU Firmware Rehosting"
     authors: Chunlin Wang, Yicheng Yang, Yuan Zhang, Haoyu Xiao, Yifan Zhang, <u><strong>Jiarun Dai</strong></u>
     conference_short: USENIX Security
     conference: The 35th USENIX Security Symposium <strong>(USENIX Security)</strong>, 2026
-    notes: CCF-A, Security BIG4 Conference, To appear
+    notes: CCF-A, Security BIG4 Conference
+    pdf: https://www.usenix.org/system/files/conference/usenixsecurity26/sec26_prepub_wang-chunlin.pdf
+    code: https://github.com/seclab-fudan/Khost
 
   - title: "Better Safe than Sorry: Uncovering the Insecure Resource Management in App-in-App Cloud Services"
     authors: Yizhe Shi, Zhemin Yang, Dingyi Liu, Kangwei Zhong, <u><strong>Jiarun Dai</strong></u>, Min Yang
     conference_short: NDSS
     conference: The Network and Distributed System Security <strong>(NDSS)</strong> Symposium, 2026
-    notes: CCF-A, Security BIG4 Conference, To appear
+    notes: CCF-A, Security BIG4 Conference
+    pdf: https://www.ndss-symposium.org/wp-content/uploads/2026-s194-paper.pdf
+    code: https://zenodo.org/records/16946146
 
   - title: "FirmCross: Detecting Taint-style Vulnerabilities in Modern C-Lua Hybrid Web Services of Linux-based Firmware"
     authors: Runhao Liu, <u><strong>Jiarun Dai*</strong></u>, Haoyu Xiao, Yuan Zhang, Yeqi Mou, Lukai Xu, Bo Yu, Baosheng Wang*, Min Yang* (Co-corresponding Authors)
     conference_short: NDSS
     conference: The Network and Distributed System Security <strong>(NDSS)</strong> Symposium, 2026
-    notes: CCF-A, Security BIG4 Conference, To appear, over 600 0-day vulns!
+    notes: CCF-A, Security BIG4 Conference, over 600 0-day vulns!
+    pdf: https://www.ndss-symposium.org/wp-content/uploads/2026-s1251-paper.pdf
+    code: https://github.com/prankster009/FirmCross
+
 
   - title: "ADSDx: Towards Automated Accident Diagnosis for High-level Autonomous Driving Systems"
     authors: Zongan Huang*, <u><strong>Jiarun Dai*</strong></u>, Mingyuan Luo, Yuqi Chen, Huijia Sun, Yuan Zhang, Min Yang (Co-first Authors)
